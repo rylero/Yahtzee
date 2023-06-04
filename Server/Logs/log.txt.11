@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-02T17:25:40</date>
+  <millis>1685751940188</millis>
+  <sequence>0</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server has been initialized</message>
+</record>
+<record>
+  <date>2023-06-02T17:25:44</date>
+  <millis>1685751944819</millis>
+  <sequence>1</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-02T17:25:44</date>
+  <millis>1685751944820</millis>
+  <sequence>2</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>|127.0.0.1| CLIENT THREAD RUNNING</message>
+</record>
+<record>
+  <date>2023-06-02T17:26:50</date>
+  <millis>1685752010970</millis>
+  <sequence>3</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-02T17:26:50</date>
+  <millis>1685752010971</millis>
+  <sequence>4</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>|127.0.0.1| CLIENT THREAD RUNNING</message>
+</record>

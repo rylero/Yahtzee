@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-03T06:59:37</date>
+  <millis>1685800777316</millis>
+  <sequence>0</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server has been initialized</message>
+</record>
+<record>
+  <date>2023-06-03T06:59:41</date>
+  <millis>1685800781613</millis>
+  <sequence>1</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T06:59:45</date>
+  <millis>1685800785557</millis>
+  <sequence>2</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T06:59:54</date>
+  <millis>1685800794001</millis>
+  <sequence>3</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = BROADCAST ; Data = my message)</message>
+</record>

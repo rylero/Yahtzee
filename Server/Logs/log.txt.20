@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-02T18:11:29</date>
+  <millis>1685754689496</millis>
+  <sequence>0</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server has been initialized</message>
+</record>
+<record>
+  <date>2023-06-02T18:11:33</date>
+  <millis>1685754693602</millis>
+  <sequence>1</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-02T18:11:42</date>
+  <millis>1685754702099</millis>
+  <sequence>2</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = PING ; Data = data)</message>
+</record>
+<record>
+  <date>2023-06-02T18:12:52</date>
+  <millis>1685754772028</millis>
+  <sequence>3</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-02T18:12:54</date>
+  <millis>1685754774379</millis>
+  <sequence>4</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = PING ; Data = d)</message>
+</record>
+<record>
+  <date>2023-06-02T18:13:11</date>
+  <millis>1685754791199</millis>
+  <sequence>5</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-02T18:13:13</date>
+  <millis>1685754793713</millis>
+  <sequence>6</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = PING ; Data = a)</message>
+</record>
+<record>
+  <date>2023-06-02T18:13:34</date>
+  <millis>1685754814908</millis>
+  <sequence>7</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>13</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = BROADCAST ; Data = mycoolmsg)</message>
+</record>

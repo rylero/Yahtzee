@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-03T07:07:53</date>
+  <millis>1685801273688</millis>
+  <sequence>0</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>Server has been initialized</message>
+</record>
+<record>
+  <date>2023-06-03T07:08:01</date>
+  <millis>1685801281391</millis>
+  <sequence>1</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T07:08:12</date>
+  <millis>1685801292319</millis>
+  <sequence>2</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T07:08:17</date>
+  <millis>1685801297788</millis>
+  <sequence>3</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T07:08:40</date>
+  <millis>1685801320119</millis>
+  <sequence>4</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = PING ; Data = message)</message>
+</record>
+<record>
+  <date>2023-06-03T07:10:08</date>
+  <millis>1685801408566</millis>
+  <sequence>5</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = BROADCAST ; Data = my message)</message>
+</record>
+<record>
+  <date>2023-06-03T07:11:02</date>
+  <millis>1685801462000</millis>
+  <sequence>6</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>11</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = CREATE ROOM ; Data = d)</message>
+</record>
+<record>
+  <date>2023-06-03T07:11:10</date>
+  <millis>1685801470912</millis>
+  <sequence>7</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T07:11:50</date>
+  <millis>1685801510907</millis>
+  <sequence>8</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>14</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = JOIN ROOM ; Data = 1)</message>
+</record>
+<record>
+  <date>2023-06-03T07:11:55</date>
+  <millis>1685801515218</millis>
+  <sequence>9</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>1</thread>
+  <message>|127.0.0.1| CLIENT CONNECTED</message>
+</record>
+<record>
+  <date>2023-06-03T07:12:00</date>
+  <millis>1685801520785</millis>
+  <sequence>10</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = JOIN ROOM ; Data = 1)</message>
+</record>
+<record>
+  <date>2023-06-03T07:12:08</date>
+  <millis>1685801528465</millis>
+  <sequence>11</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = BROADCAST ; Data =  my message)</message>
+</record>
+<record>
+  <date>2023-06-03T07:12:20</date>
+  <millis>1685801540228</millis>
+  <sequence>12</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = JOIN ROOM ; Data = 1)</message>
+</record>
+<record>
+  <date>2023-06-03T07:12:32</date>
+  <millis>1685801552048</millis>
+  <sequence>13</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>12</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = BROADCAST ; Data = fred)</message>
+</record>
+<record>
+  <date>2023-06-03T07:13:00</date>
+  <millis>1685801580333</millis>
+  <sequence>14</sequence>
+  <logger>Server.Logging</logger>
+  <level>INFO</level>
+  <class>Server.Logging</class>
+  <method>log</method>
+  <thread>15</thread>
+  <message>|127.0.0.1| RECIVED MSG (Command = !QUIT! ; Data = _)</message>
+</record>
